@@ -1,0 +1,16 @@
+/* src/index.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* * {
+    border: 1px solid red;
+} */
+
+body {
+    font-family: Lexend Deca;
+}
+
+.note {
+    font-family: Helvetica;
+}
